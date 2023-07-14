@@ -1,0 +1,5 @@
+/data
+/saved_images
+.DS_Store
+.idea/
+__pycache__/
